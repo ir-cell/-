@@ -1,0 +1,77 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:player_head": 6,
+      "minecraft:red_harness": 1,
+      "minecraft:big_dripleaf": 15
+    },
+    "minecraft:used": {
+      "minecraft:piglin_head": 1,
+      "minecraft:loom": 2,
+      "minecraft:player_head": 3,
+      "minecraft:spruce_stairs": 43,
+      "minecraft:andesite": 9,
+      "minecraft:happy_ghast_spawn_egg": 1,
+      "minecraft:vault": 1,
+      "minecraft:netherite_axe": 2,
+      "minecraft:fire_charge": 8,
+      "minecraft:firework_rocket": 170,
+      "minecraft:light_gray_terracotta": 3,
+      "minecraft:light_gray_banner": 12,
+      "minecraft:item_frame": 3,
+      "minecraft:crossbow": 18,
+      "minecraft:copper_torch": 1,
+      "minecraft:cut_sandstone": 1,
+      "minecraft:dark_oak_sign": 5,
+      "minecraft:lever": 4,
+      "minecraft:wind_charge": 42,
+      "minecraft:spruce_door": 5,
+      "minecraft:glow_ink_sac": 4,
+      "minecraft:stone": 1,
+      "minecraft:spruce_slab": 17,
+      "minecraft:polished_andesite": 50,
+      "minecraft:sculk_sensor": 1,
+      "minecraft:flint_and_steel": 11,
+      "minecraft:redstone_torch": 5,
+      "minecraft:crafting_table": 1,
+      "minecraft:deepslate_tiles": 67,
+      "minecraft:spruce_trapdoor": 12,
+      "minecraft:chiseled_bookshelf": 15,
+      "minecraft:candle": 12,
+      "minecraft:armor_stand": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:big_dripleaf": 15,
+      "minecraft:player_head": 1,
+      "minecraft:enchanted_golden_apple": 448
+    },
+    "minecraft:killed": {
+      "minecraft:happy_ghast": 1,
+      "minecraft:bat": 2
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 961,
+      "minecraft:walk_one_cm": 84462,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 3,
+      "minecraft:play_time": 87853,
+      "minecraft:damage_dealt": 240,
+      "minecraft:jump": 663,
+      "minecraft:time_since_death": 938,
+      "minecraft:aviate_one_cm": 584892,
+      "minecraft:drop": 451,
+      "minecraft:sprint_one_cm": 94983,
+      "minecraft:tune_noteblock": 37,
+      "minecraft:happy_ghast_one_cm": 23015,
+      "minecraft:total_world_time": 87853,
+      "minecraft:fly_one_cm": 705444,
+      "minecraft:walk_on_water_one_cm": 122,
+      "minecraft:crouch_one_cm": 5849,
+      "minecraft:sneak_time": 3100,
+      "minecraft:deaths": 4,
+      "minecraft:interact_with_loom": 7
+    }
+  },
+  "DataVersion": 4671
+}
